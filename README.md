@@ -10,4 +10,4 @@ It was a great opportunity to gain some knowledge about JavaFX and MVC pattern.
 * JavaFX
 
 ## Author 
-Dominik Suszek (QQxxx)
+Dominik Suszek (dsuszek)
